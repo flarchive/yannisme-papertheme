@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of yannisme/papertheme.** Not for installation: use [Packagist](https://packagist.org/packages/yannisme/papertheme) or the [upstream repository](https://github.com/yannisme/flarum-paper-theme).
 
-**0** versions archived · Latest: [`0.0.5`](https://github.com/flarchive/yannisme-papertheme/tree/archive/v0.0.5) · License: `MIT` · Flarum: `*`
+**5** versions archived · Latest: [`0.0.5`](https://github.com/flarchive/yannisme-papertheme/tree/archive/v0.0.5) · License: `MIT` · Flarum: `*`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.3` | 2021-12-25 | `*` | [Browse](https://github.com/flarchive/yannisme-papertheme/tree/archive/v0.0.3) |
+| `0.0.4` | 2021-12-25 | `*` | [Browse](https://github.com/flarchive/yannisme-papertheme/tree/archive/v0.0.4) |
+| `0.0.5` | 2021-12-26 | `*` | [Browse](https://github.com/flarchive/yannisme-papertheme/tree/archive/v0.0.5) |
+| `v0.0.1` | 2021-12-12 | `*` | [Browse](https://github.com/flarchive/yannisme-papertheme/tree/archive/v0.0.1) |
+| `v0.0.2` | 2021-12-16 | `*` | [Browse](https://github.com/flarchive/yannisme-papertheme/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/yannisme-papertheme.json](https://github.com/flarchive/archive-index/blob/main/packages/yannisme-papertheme.json)
 
